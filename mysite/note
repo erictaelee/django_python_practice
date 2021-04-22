@@ -1,0 +1,8 @@
+similarities
+-creating django (vue) first
+-running server before opening a browser (same localhost:8000)
+-
+
+
+differences
+-framework creates a lot quicker than vue
